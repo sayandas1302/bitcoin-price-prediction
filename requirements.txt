@@ -1,0 +1,5 @@
+ipykernel
+pandas
+seaborn
+scikit-learn
+xgboost
